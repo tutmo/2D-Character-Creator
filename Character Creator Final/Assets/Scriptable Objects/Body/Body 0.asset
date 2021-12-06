@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d56554f0f28e3174b9b0f26242568028, type: 3}
+  m_Name: Body 0
+  m_EditorClassIdentifier: 
+  bodyPartName: Dark Skin
+  bodyPartAnimationID: 0
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: a58d5b0e476988d41b97434bce79eb13, type: 2}
+  - {fileID: 7400000, guid: c89fcd48fae5e1141a2095f695281d17, type: 2}
+  - {fileID: 7400000, guid: 7df5005ac302ece45881383189986142, type: 2}
+  - {fileID: 7400000, guid: 63ace9a92332f7c4baf9ea10c27c2b62, type: 2}
+  - {fileID: 7400000, guid: b9504ee4a69f73b49bc8e959c0b48a29, type: 2}
+  - {fileID: 7400000, guid: dd4380333fb2a674da80a1e327415028, type: 2}
+  - {fileID: 7400000, guid: 0bf53690f9f3ac146bbcabd2a0e3d3d5, type: 2}
+  - {fileID: 7400000, guid: bf23e0cccba7beb4d8b3c38499b47363, type: 2}

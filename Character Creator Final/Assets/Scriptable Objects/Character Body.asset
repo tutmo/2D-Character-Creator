@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08b49457f7471294f8ded8c8d43ae0ab, type: 3}
+  m_Name: Character Body
+  m_EditorClassIdentifier: 
+  characterBodyParts:
+  - bodyPartName: Body
+    bodyPart: {fileID: 11400000, guid: 48cdaf5d95f59d94a8fa889ff85dcc07, type: 2}
+  - bodyPartName: Hair
+    bodyPart: {fileID: 11400000, guid: 7a2a182ab3c50ce44a5e03b296084fb5, type: 2}
+  - bodyPartName: Torso
+    bodyPart: {fileID: 11400000, guid: bc32bae8dd8f0ce41a514cf6fd504e3c, type: 2}
+  - bodyPartName: Legs
+    bodyPart: {fileID: 11400000, guid: 664153d2da20a6b4fb38d1ab9adedfb1, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d56554f0f28e3174b9b0f26242568028, type: 3}
+  m_Name: Hair 0
+  m_EditorClassIdentifier: 
+  bodyPartName: Mohawk
+  bodyPartAnimationID: 0
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: de2c7eacb04ddc94589585a6701088c8, type: 2}
+  - {fileID: 7400000, guid: 7ec2479e439c0a946acdd0ac1daeb17b, type: 2}
+  - {fileID: 7400000, guid: 958866ae929d0d3428af4b9f69340f9d, type: 2}
+  - {fileID: 7400000, guid: 0f9b9a26b92969545aa7c8d2c2b5aead, type: 2}
+  - {fileID: 7400000, guid: d69e850661dc0d34c8ee6df81ab4a6ad, type: 2}
+  - {fileID: 7400000, guid: 6092ac73708c7c047b7944ac8e234b37, type: 2}
+  - {fileID: 7400000, guid: 3799b30d7350b474fbdd0717d2f8818e, type: 2}
+  - {fileID: 7400000, guid: b4df4737918210f40b40c3ec13aeade2, type: 2}

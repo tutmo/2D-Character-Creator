@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 08b49457f7471294f8ded8c8d43ae0ab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - characterBody: {fileID: 11400000, guid: 04184ccc187ebeb4898134b291bec24b, type: 2}
+  - characterHair: {instanceID: 0}
+  - characterTorso: {instanceID: 0}
+  - characterLegs: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
