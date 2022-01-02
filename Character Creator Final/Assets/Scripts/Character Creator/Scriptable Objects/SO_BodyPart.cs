@@ -1,4 +1,7 @@
-﻿using System.Collections.Generic;
+﻿// Code written by tutmo (youtube.com/tutmo)
+// For help, check out the tutorial - https://youtu.be/PNWK5o9l54w
+
+using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "New Body Part", menuName = "Body Part")]
